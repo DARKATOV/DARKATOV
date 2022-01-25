@@ -1,3 +1,4 @@
+<body background="fondo1.jpg" bgcolor="FFCECB">
 #### Hi 👋🏼😄 I'm Ato !
 
 Here are some ideas to get you started:
@@ -15,5 +16,8 @@ socialNetworks🌐
   - Stackoverflow: https://stackoverflow.com/users/15116776/darkatov?tab=profile
   - W3schools: https://my-learning.w3schools.com/tutorials/
 <br>
+
+</body>
+
 <img width=300 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/code.png" />
 <img width=300 align="right" src="https://cdn140.picsart.com/321303280218201.gif" />
