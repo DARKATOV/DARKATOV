@@ -1,5 +1,4 @@
 #### Hi 👋🏼😄 I'm Ato !
-<body background="img/321303280218201.gif" bgcolor="FFCECB">
 Here are some ideas to get you started:
   - 💻 Full Stack Developer.
   - 🌱 Technology and science lover, graduated as an industrial engineer. Currently in training as a Software Engineer with a focus on Data Science.
@@ -13,7 +12,7 @@ socialNetworks🌐
   - Developers Google: https://developers.google.com/profile/u/darkatov?utm_source=developers.google.com
   - Stackoverflow: https://stackoverflow.com/users/15116776/darkatov?tab=profile
   - W3schools: https://my-learning.w3schools.com/tutorials/
-</body>
+
 <br>
 <img width=300 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/code.png" />
-<img width=300 align="right" src="https://cdn140.picsart.com/321303280218201.gif" />
+
