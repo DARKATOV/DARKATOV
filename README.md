@@ -15,4 +15,4 @@ socialNetworks🌐
   - Stackoverflow: https://stackoverflow.com/users/15116776/darkatov?tab=profile
   - W3schools: https://my-learning.w3schools.com/tutorials/
 <br>
-<img width=250 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/logoAtoLabs.png" />
+<img width=250 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/logoAtoLabs.png" /> <img width=250 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/code.png" />
