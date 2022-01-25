@@ -1,3 +1,5 @@
+<div style="background-image: url('https://cdn140.picsart.com/321303280218201.gif');">
+
 #### Hi 👋🏼😄 I'm Ato !
 
 Here are some ideas to get you started:
