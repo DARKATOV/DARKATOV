@@ -1,5 +1,3 @@
-<div style="background-image: url('https://cdn140.picsart.com/321303280218201.gif');">
-
 #### Hi 👋🏼😄 I'm Ato !
 
 Here are some ideas to get you started:
@@ -18,3 +16,4 @@ socialNetworks🌐
   - W3schools: https://my-learning.w3schools.com/tutorials/
 <br>
 <img width=300 align="right" src="https://raw.githubusercontent.com/DARKATOV/DARKATOV/main/img/code.png" />
+<img width=300 align="right" src="https://cdn140.picsart.com/321303280218201.gif" />
