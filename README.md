@@ -1,7 +1,5 @@
 #### Hi 👋🏼😄 I'm Ato !
 
-Here are some ideas to get you started:
-
   - 💻 Full Stack Developer.
   - 🌱 Technology and science lover, graduated as an industrial engineer. Currently in training as a Software Engineer with a focus on Data Science.
   - 🤔 A keen interest in quantum computing.
