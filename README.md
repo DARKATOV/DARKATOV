@@ -1,10 +1,12 @@
 #### Hi 👋🏼😄 I'm Ato !
-
+  
   - 💻 Full Stack Developer.
-  - 🌱 Technology and science lover, graduated as an industrial engineer. Currently in training as a Software Engineer with a focus on Data Science.
+  - 🌱 Technology and science lover, graduated as an industrial engineer. Currently in training as a Software Engineer 
+with a focus on Data Science.
   - 🤔 A keen interest in quantum computing.
-  - ⚡ Creator of the  Ato Labs project 🔜 https://atolabsofficial.com/
-  - 🏔️ Free soul hiker.
+  - ⚡ Creator of the  Ato Labs project --> https://atolabsofficial.com/
+  - 🏔️ Free soul hiker
+  - 🦊 GITLAB --> https://gitlab.com/DARKATOV
 
 socialNetworks🌐
   - Linkedin: https://www.linkedin.com/in/ato-perez/
